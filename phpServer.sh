@@ -1,5 +1,5 @@
 #!/bin/bash
-script="startPHPserver"
+script="phpServer"
 # If a port is not entered, the script will use port 8000 be default.
 # Otherwise the script will use the port you entered.
 
